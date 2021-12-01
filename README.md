@@ -1,5 +1,7 @@
 # AD-1-Project
 
+# Group Name Algo Team
+
 ## Members list:
 
 - Atul Narayan (2041014100)
