@@ -1,6 +1,6 @@
 # AD-1-Project
 
-# Group Name Algo Team
+# Group Name :  Algo Team
 
 ## Members list:
 
