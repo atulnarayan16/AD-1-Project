@@ -40,7 +40,7 @@
    </br>
 4. Hash-table data structures
    </br>
-   4.1 Heapify
+   4.1 Ternary Heap
    </br>
    4.2 Double hash table
    </br>
