@@ -43,7 +43,6 @@
    4.1 Ternary Heap
    </br>
    4.2 Double hash table
-   
    </br>
    4.3 Quadratic hash table
    </br>
