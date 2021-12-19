@@ -23,13 +23,13 @@
 
 2. Array-based data structures
    </br>
-   2.1 Stack
+   2.1 Stack <br>
    Q-Write a program or stack operation to POP item ?
    </br>
-   2.2 Dynamic Stack
+   2.2 Dynamic Stack<br>
    Q-Write a menu driven program of stack operations using linked list ?
    </br>
-   2.3 Linked Stack
+   2.3 Linked Stack<br>
    Q-Write a menu driven program of stack operations using array ?
    </br>
 
