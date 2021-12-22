@@ -18,7 +18,7 @@
    </br>
    1.2 Sorted double list
    </br>
-   1.3 Double list
+   1.3 Single list
    </br>
 
 2. Array-based data structures
