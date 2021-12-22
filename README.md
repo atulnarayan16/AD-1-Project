@@ -45,9 +45,6 @@
    </br>
    4.1 Ternary Heap
    </br>
-   Q1 . HOW TO IMPLEMENT TERNARY HEAP IN JAVA PROGRAMMING ?
-        
-   </br>
    4.2 Double hash table
    </br>
    4.3 Quadratic hash table
